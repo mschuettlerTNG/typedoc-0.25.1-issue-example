@@ -6,9 +6,6 @@
   "entryPointStrategy": "packages",
   // Just disables the version for the root package which isn't released anyway.
   "includeVersion": false,
-  "plugin": [
-    "typedoc-plugin-zod"
-  ],
   "excludeInternal": true,
   "readme": "./README.md",
   "$schema": "https://typedoc.org/schema.json"

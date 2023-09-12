@@ -8,7 +8,6 @@
   "devDependencies": {
     "@types/node": "^18.16.19",
     "typedoc": "^0.25.1",
-    "typedoc-plugin-zod": "^1.1.0",
     "typescript": "^5.2.2"
   }
 }
